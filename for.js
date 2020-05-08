@@ -1,5 +1,5 @@
 function perulangan() {
-    for (var index = 0; index < 10; index++) {
+    for (var index = 1; index < 10; index++) {
 console.log("jalan :", index)        
     }
 }
